@@ -1,2 +1,3 @@
-# pydatalondon.github.io
-PyData London website
+# PyData London site
+
+A static page to host information about PyData London
